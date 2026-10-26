@@ -93,7 +93,7 @@ python -m src.index
 python -m unittest discover -s test -v
 ```
 
-En la última ejecución observada se aprobaron **10 pruebas**. Cubren:
+En la última ejecución observada se aprobaron **11 pruebas**. Cubren:
 
 - Normalización de nombres y segmentos.
 - Teléfonos válidos e inválidos.
